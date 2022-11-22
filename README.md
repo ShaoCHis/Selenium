@@ -1,6 +1,9 @@
 # Selenium
 Selenium 使用
 
+# 教程
+来自[白月黑羽教程](https://www.byhy.net/tut/auto/selenium/skills_1/)
+
 # Selenium安装
 ````shell
 pip install selenium
